@@ -1,0 +1,3 @@
+MATLAB release compatibility: created with MATLAB 2016a
+Platform compatibility: macOS
+Toolboxes required: Statistics and Machine Learning Toolbox version 11.6
