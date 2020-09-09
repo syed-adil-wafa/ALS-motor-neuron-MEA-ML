@@ -11,7 +11,7 @@ Data were sampled at 12.5 kHz, digitized, and analyzed using Axion Integrated St
 Downstream data analysis was performed using in-house scripts written in MATLAB 2016a (The MathWorks, Inc.).
 
 ### Results and discussion
-![alt text](https://github.com/syed-adil-wafa/MEA-phenotyping-of-ALS-motor-neurons/blob/master/figures/feature_importance.jpg)
+![alt text](https://github.com/syed-adil-wafa/MEA-phenotyping-of-ALS-motor-neurons/blob/master/figures/feature_importance.png)
 ![alt text](https://github.com/syed-adil-wafa/MEA-phenotyping-of-ALS-motor-neurons/blob/master/figures/ALS_electrophysiological_features.jpg)
 
 ### Acknowledgements
