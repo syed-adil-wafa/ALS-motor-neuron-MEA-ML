@@ -15,11 +15,12 @@ A non-parametric machine learning algorithm (ensemble model of decision trees) w
 ### Results and discussion
 The machine learning model suggested that different spiking (e.g. number of spikes, inter-spike interval (ISI) coefficient of variation) and bursting (e.g. number of bursts, number of network bursts, network inter-burst interval (IBI) coefficient of variation) features were important in distinguishing the two groups of neurons during early- and late-stages of development, respectively. Moreover, variations in the number of spikes per network burst and in the network burst duration were highlighted to be important during mid-stages of development.
 ![alt text](https://github.com/syed-adil-wafa/MEA-phenotyping-of-ALS-motor-neurons/blob/master/figures/feature_importance.png)
-The following figure takes a deeper look at some of the features highlighted to be important in the machine learning model.
+The following figure takes a deeper look at some of the features highlighted to be important in the machine learning model. Relative to isogenic controls, some electrophysiological features of diseased neurons demonstrated different patterns depending on the cell line. However, patient neurons consistently demonstrated increased spiking, ISI coefficient of variation, bursting, and network bursting relative to isogenic controls.
 ![alt text](https://github.com/syed-adil-wafa/MEA-phenotyping-of-ALS-motor-neurons/blob/master/figures/ALS_electrophysiological_features.jpg)
 
 ### Acknowledgements
 Laboratory of Clifford Woolf: https://kirbyneuro.org/WoolfLab/
+<br/> Laboratory of Kevin Eggan: https://www.egganlab.com/
 <br/> Human Neuron Core: http://www.childrenshospital.org/research/labs/human-neuron-core
 <br/> Laboratory of Mustafa Sahin: http://sahin-lab.org/
 
